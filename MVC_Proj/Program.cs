@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using MVC_Net.Data; // ajuste se o namespace do seu projeto for diferente
+using MVC_Proj.Data; // ajuste se o namespace do seu projeto for diferente
 using Microsoft.Extensions.Logging;
 
 var builder = WebApplication.CreateBuilder(args);

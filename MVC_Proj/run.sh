@@ -10,5 +10,5 @@ dotnet restore
 echo "dotnet build"
 dotnet build
 
-echo "dotnet run --project 'MVC .Net.csproj'"
-dotnet run --project "MVC .Net.csproj"
+echo "dotnet run --project 'MVC.Net.csproj'"
+dotnet run --project "MVC.Net.csproj"
